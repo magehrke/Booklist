@@ -1,3 +1,6 @@
+# exclude the apple made DS_Store's
+*.DS_Store
+
 *.class
 
 # Mobile Tools for Java (J2ME)
